@@ -14,7 +14,3 @@ Personal site — IT Operations leadership portfolio.
 ├── CNAME                   # GitHub Pages custom domain
 └── README.md
 ```
-
-## To Update
-
-Edit HTML files directly. Replace the PDF when the resume changes. Push to main — GitHub Pages deploys automatically.
